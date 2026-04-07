@@ -18,9 +18,9 @@ Algoritmo Act1_Lecc7_Inc1
 	Leer n5
 	// Proceso
 	promedio <- (n1+n2+n3+n4+n5)/5
-	// Evaluo si gano o perdío
+	// Evaluo si gano o perdÃ­o
 	Si promedio>=70 Entonces
-		Escribir 'El estudio aprobo con un promedio de: ', promedio
+		Escribir 'El estudiante aprobo con un promedio de: ', promedio
 	SiNo
 		Escribir 'El estudiante reprobo con un promedio de: ', promedio
 	FinSi
